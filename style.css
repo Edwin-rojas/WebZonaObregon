@@ -1,0 +1,53 @@
+html {
+    margin: 60px;
+}
+
+.opciones {
+    margin-right: 20px;
+    text-decoration: none;
+    color:#000000;
+}
+
+.nav-opciones {
+    margin-left: 900px;
+}
+
+.banner {
+    margin-top: 30px;
+}
+
+h2 {
+    font-family: 'Hermeneus One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 79px;
+    color: #000000;
+}
+
+h3 {
+    font-family: 'Radley';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    color: #F29330;
+}
+
+button {
+    width: 140px;
+    height: 40px;
+    background: #E6B93A;
+    opacity: 0.8;
+    border-radius: 7px;
+}
+ .directorio-boton {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Radley';
+    font-style: normal;
+ }
+
+header {
+    width: 522px;
+}
