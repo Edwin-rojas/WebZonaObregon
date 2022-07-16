@@ -1,6 +1,16 @@
 html {
-    margin: 60px;
+    margin: 0px 60px;
 }
+
+.encabezado {
+    background-color: #ffffff;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    display: flex;
+    
+}
+
 
 .opciones {
     margin-right: 20px;
@@ -16,6 +26,17 @@ html {
     margin-top: 30px;
 }
 
+h1 {
+    font-family: 'Hermeneus One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 79px;
+    color: #000000;
+    margin: 10px;
+}
+
+
 h2 {
     font-family: 'Hermeneus One';
     font-style: normal;
@@ -23,6 +44,9 @@ h2 {
     font-size: 55px;
     line-height: 79px;
     color: #000000;
+    margin: 10px;
+    position: absolute;
+    top: 1000px;
 }
 
 h3 {
@@ -49,5 +73,5 @@ button {
  }
 
 header {
-    width: 522px;
-}
+    display:flex
+} 
